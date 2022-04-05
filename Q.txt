@@ -1,0 +1,4 @@
+B:foo,C:f2
+B:foo,C:f3
+B:bar,C:f2
+B:bar,C:f3
