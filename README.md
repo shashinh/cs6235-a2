@@ -6,10 +6,10 @@ Base repository for CS6235 A2 - a Soot-based flow-sensitive MHP Analysis of Java
   * This will force you to implement two abstract methods:
     * `internalTransform` - where you will implement your actual analysis.
     * `getResultString` - where you will emit your analysis' output in the required string format.
-* For your convenience, a placeholder analysis - `cs6235.a1.submission.MHPAnalysis` is already provided, you are welcome to add your code in there.
-* Ensure that any code you write is within the `cs6235.a1.submission` package.
-* You will eventually submit only an archive containing the code for the `cs6235.a1.submission` package.
-* Even if you submit other items, we will only copy over the `cs6235.a1.submission` package during evaluation - so make sure all your submission code is within that package.
+* For your convenience, a placeholder analysis - `cs6235.a2.submission.MHPAnalysis` is already provided, you are welcome to add your code in there.
+* Ensure that any code you write is within the `cs6235.a2.submission` package.
+* You will eventually submit only an archive containing the code for the `cs6235.a2.submission` package.
+* Even if you submit other items, we will only copy over the `cs6235.a2.submission` package during evaluation - so make sure all your submission code is within that package.
 
 ## Input/Output
 * Consider the following program provided as input in `tests/P.java`
