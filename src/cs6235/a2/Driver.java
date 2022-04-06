@@ -39,11 +39,11 @@ public class Driver {
 				"-cp", classPath,
 				"-pp",
 				"-w", "-app",
-				"-src-prec", "java",
-				"-p", "cg.cha", "enabled:true",
-				"-p", "cg.spark", "enabled:false",
-				"-f", "J",
-				//"-d", "output",
+				"-src-prec", "c",
+				"-p", "cg.cha", "enabled:false",
+				"-p", "cg.spark", "enabled:true",
+				//"-f", "J",
+				//"-process-dir", classPath,
 				mainClass
 				
 		};
